@@ -87,7 +87,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 
 ### TODO
 * Visit/tour the Google campus
-* Skate around Golden Gate Park
+* Segway around Golden Gate Park
 * Catch a cable car in San Francisco
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
