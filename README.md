@@ -4,11 +4,11 @@ model could be leveraged, given adequate exposure, for something
 as simple as a todo list.
 
 ### Why am I doing this?
-Most threads I read regard overseas travel, especially to the US I find overly touristy.
-I'm not one for hikes through national parks, going to Disney Land.
+Most threads I read regarding overseas travel, especially to the US I find overly touristy.
+I'm not one for hikes through national parks, or going to Disney Land.
 
-I want to travel San Francisco they way people should travel Melbourne, Australia.
-Talking to locals, wandering the cities lane ways for days with no plans. Discovering all
+I want to travel San Francisco the way people should travel Melbourne, Australia.
+Talking to locals, wandering the city's laneways for days with no plans. Discovering all
 the hidden awesomeness it has to offer.
 
 I'll be spending the majority of my time there working with local collegues who I'm sure will show me a great time.
@@ -19,8 +19,7 @@ uniquely SF experiences that I can share back with you all, and anyone who stumb
 Long story short, I'm travelling to San Francisco for ~2 months
 (Aug/Sep) this year primarily, but by no means limited to, San
 Francisco.
-I've been to the US before, spending the majority of my time in
-Las Vegas, NV.
+I've been to the US before, spending the majority of that time in Las Vegas, NV.
 Looking for some fun stuff to do. The kinds of things the locals
 do that you don't read about in the travel guides.
 
@@ -37,7 +36,7 @@ For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-chec
 
 
 ### About me
-I'm a 25 year old Australian web developer working for a successful
+I'm a 25 year old Australian male web developer working for a successful
 web start up. I spend most of my days neck deep in (s)css and
 javascript and love it!
 
@@ -110,8 +109,6 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
 * Get a bite to eat at the [Farmer's market](http://www.ferrybuildingmarketplace.com/farmers_market.php)
 * attend some meetups: http://javascript.meetup.com/cities/us/ca/san_francisco/  Ideally, RSVP beforehand.  I've never actually been to a meetup where they check names against the RSVP list though.
-
-
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
