@@ -1,18 +1,18 @@
 ### What is this?
-This is my fun little experiment to see if Github's crowd source 
-model could be leveraged, given adequate exposure, for something 
-as simple as a todo list. 
+This is my fun little experiment to see if Github's crowd source
+model could be leveraged, given adequate exposure, for something
+as simple as a todo list.
 
 ### Why am I doing this?
-There are many things I suck at, among them are: 
+There are many things I suck at, among them are:
 * planning
 * organization
 * being touristy
 * and most unfortunately, writting TODO lists.
 
 ### How can I help?
-Long story short, I'm travelling to San Fransisco for ~2 months 
-(Aug/Sep) this year primarily, but by no means limited to, San 
+Long story short, I'm travelling to San Fransisco for ~2 months
+(Aug/Sep) this year primarily, but by no means limited to, San
 Fransisco.
 I've been to the US before, spending the majority of my time in
 Las Vegas, NV.
@@ -25,8 +25,8 @@ and if it tickles my fancy, I'll add it below. I'll add updates
 in the form of mini-blogs, vlog, or photos.
 
 ### About me
-I'm a 25 year old Australian web developer working for a successful 
-web start up. I spend most of my days neck deep in (s)css and 
+I'm a 25 year old Australian web developer working for a successful
+web start up. I spend most of my days neck deep in (s)css and
 javascript and love it!
 
 My interests include:
@@ -47,7 +47,7 @@ My interests include:
     * Rise Against (http://www.youtube.com/artist/rise-against/videos)
     * Theory of a Deadman (http://www.youtube.com/artist/theory-of-a-deadman/videos)
     * ...you're probably getting the gist by this point
-* food, primarily *pizza* - show me you're best!
+* food, primarily *pizza* - show me your best!
 * stand up comedy - would love to go to a gig. Submit tour dates?
     * Gabriel Igelias
     * Louis C.K.
@@ -65,9 +65,9 @@ My interests include:
 US, primarily but not limited San Fransisco. Looking for fun (non-
 touristy) stuff to do. I wonder if I can crowd source github for ideas.
 
-Please open a pull request, or twitter [@xzyfer](https://twitter.com/xzyfer), with your suggestion. 
-I'll review it, and if it tickles my fancy, I'll add it below. 
-I'll add updates in the form of mini-blogs, vlog, or photos. 
+Please open a pull request, or twitter [@xzyfer](https://twitter.com/xzyfer), with your suggestion.
+I'll review it, and if it tickles my fancy, I'll add it below.
+I'll add updates in the form of mini-blogs, vlog, or photos.
 
 **Also** please make my trip awesome by helping this go viral!
 
@@ -80,4 +80,4 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
 * Attend a tech conference (http://goo.gl/rqZEP) - seeing [@paul_irish](https://twitter.com/paul_irish) talk would be all kinds of awesome
-
+* Eat a sushiritto
