@@ -55,6 +55,7 @@ My interests include:
     * ...you're probably getting the gist by this point
 * partying and drinking (tequila :)) - know an awesome night spot?
 * your usual 18-25 year old age bracket stuff!
+* poker - I played semi-professionally for a couple years
 
 **TL;DR** I'm an Australian web developer spending two Aug/Sep in the
 US, primarily but not limited San Fransisco. Looking for fun (non-
