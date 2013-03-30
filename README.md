@@ -3,10 +3,6 @@ This is my fun little experiment to see if Github's crowd source
 model could be leveraged, given adequate exposure, for something 
 as simple as a todo list. 
 
-### Who am I?
-I'm an Australian web developer working for a successful start up.
-The start up I work for has offices world wide.
-
 ### Why am I doing this?
 There are many things I suck at, among them are: 
 * planning
@@ -29,12 +25,16 @@ and if it tickles my fancy, I'll add it below. I'll add updates
 in the form of mini-blogs, vlog, or photos.
 
 ### About me
+I'm a 25 year old Australian web developer working for a successful 
+web start up. I spend most of my days neck deep in (s)css and 
+javascript and love it!
+
 My interests include:
 * the beach
 * basketball
 * all things inline - roller blades
-* tech (meet ups, tech campus')
-* rock music (would love to go to a gig. Submit tour dates?)
+* tech - meet ups, tech campus', and alike
+* rock music - would love to go to a gig. Submit tour dates?
     * papa roach
     * trapt
     * seether
@@ -43,8 +43,8 @@ My interests include:
     * breaking benjamin
     * bullet for my valentine
     * ...you're probably getting the gist by this point
-* food, primarily piza (show me you're best!)
-* stand up comedy (would love to go to a gig. Submit tour dates?)
+* food, primarily piza - show me you're best!
+* stand up comedy - would love to go to a gig. Submit tour dates?
     * Gabriel Igelias
     * Louis C.K.
     * Bill Burr
@@ -53,6 +53,8 @@ My interests include:
     * Bill Engval
     * Stephen Lynch
     * ...you're probably getting the gist by this point
+* partying and drinking (tequila :)) - know an awesome night spot?
+* your usual 18-25 year old age bracket stuff!
 
 **TL;DR** I'm an Australian web developer spending two Aug/Sep in the
 US, primarily but not limited San Fransisco. Looking for fun (non-
@@ -72,3 +74,5 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
+* Attend a tech conference (http://goo.gl/rqZEP) - seeing @paulirish talk would be all kinds of awesome
+
