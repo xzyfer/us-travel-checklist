@@ -74,5 +74,5 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
-* Attend a tech conference (http://goo.gl/rqZEP) - seeing @paulirish talk would be all kinds of awesome
+* Attend a tech conference (http://goo.gl/rqZEP) - seeing [@paul_irish](https://twitter.com/paul_irish) talk would be all kinds of awesome
 
