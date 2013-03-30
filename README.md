@@ -89,6 +89,7 @@ For taco suggestions, please see here https://github.com/xzyfer/us-travel-checkl
 * Cross the US-Mexico border
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
 * Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers (http://www.zrafting.com)
+* Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
  
 ### Preflight (what I should do/organise before I arrive)
 * Register for Songkick - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
