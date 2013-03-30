@@ -108,6 +108,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit Santa Cruz. Only a hour or so south of SF, possible via public transit, and one of the great beach cities in California.
 * Find somebody having a Labor Day party (early September). Get an invite. Or crash it.
 * Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
+* Get a bite to eat at the [Farmer's market](http://www.ferrybuildingmarketplace.com/farmers_market.php)
 
 
 ### Preflight (what I should do/organise before I arrive)
