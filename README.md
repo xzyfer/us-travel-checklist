@@ -71,6 +71,10 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 
 **Also** please make my trip awesome by helping this go viral!
 
+**UPDATE** response has been awesome, thanks everyone. 
+For pizza suggestions, please see here https://github.com/xzyfer/us-travel-checklist/issues/5
+For taco suggestions, please see here https://github.com/xzyfer/us-travel-checklist/issues/13
+
 
 ### TODO
 * Visit/tour the Google campus
