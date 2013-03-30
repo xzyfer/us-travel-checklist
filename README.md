@@ -78,7 +78,8 @@ For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-chec
 
 ### TODO
 * Visit/tour the Google campus
-* Skate around Golden Gate Park
+* Skate around Golden Gate Park (or segway!)
+* Rent a bike, bike across the Golden Gate Bridge, lunch in Sausalito, catch the ferry back
 * Catch a cable car in San Francisco
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
