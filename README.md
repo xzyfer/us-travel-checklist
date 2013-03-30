@@ -108,6 +108,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Find somebody having a Labor Day party (early September). Get an invite. Or crash it.
 * Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
 
+
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
 * Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
