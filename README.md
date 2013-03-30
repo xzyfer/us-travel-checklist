@@ -109,8 +109,13 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Find somebody having a Labor Day party (early September). Get an invite. Or crash it.
 * Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
 * Get a bite to eat at the [Farmer's market](http://www.ferrybuildingmarketplace.com/farmers_market.php)
+* attend some meetups: http://javascript.meetup.com/cities/us/ca/san_francisco/  Ideally, RSVP beforehand.  I've never actually been to a meetup where they check names against the RSVP list though.
+
 
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
 * Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
+* Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive. Routesy Free is a good iOS one.
+* Sign up for lyft, a peer-to-peer taxi service, and install app
+
