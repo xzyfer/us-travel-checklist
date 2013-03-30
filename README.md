@@ -12,7 +12,7 @@ There are many things I suck at, among them are:
 
 ### How can I help?
 Long story short, I'm travelling to San Francisco for ~2 months
-(Aug/Sep) this year primarily, but by no means limited to, San 
+(Aug/Sep) this year primarily, but by no means limited to, San
 Francisco.
 I've been to the US before, spending the majority of my time in
 Las Vegas, NV.
@@ -20,8 +20,8 @@ Looking for some fun stuff to do. The kinds of things the locals
 do that you don't read about in the travel guides.
 
 ### Contributing
-Please open a pull request or issue with your suggestion. I'll 
-review it, and if it tickles my fancy, I'll add it below. I'll add 
+Please open a pull request or issue with your suggestion. I'll
+review it, and if it tickles my fancy, I'll add it below. I'll add
 updates in the form of mini-blogs, vlog, or photos.
 
 If a local's pizza or taco suggestion gets shortlisted, lunch is on me!
@@ -73,7 +73,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 
 **Also** please make my trip awesome by helping this go viral!
 
-**UPDATE** response has been awesome, thanks everyone. 
+**UPDATE** response has been awesome, thanks everyone.
 
 For pizza suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/5). If a local gets shortlisted, lunch is on me!
 
@@ -92,12 +92,13 @@ For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-chec
 * Eat a [Mission burrito](http://en.wikipedia.org/wiki/San_Francisco_burrito)
 * Cross the US-Mexico border
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
+* Hang out at at a hackerspace like [Noisebridge](https://noisebridge.net/) (a few times, get to know some folks)
 * Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
 * Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
 * Visit [Lego Land](http://california.legoland.com/) - nerd-gasim
 * Eat at an [In-N-Out](http://www.yelp.com/biz/in-n-out-burger-san-francisco). Make sure you get a double double animal style.
 * [IHOP!!](http://www.ihop.com/) - [@fluffyguy](https://twitter.com/fluffyguy)
- 
+
 ### Preflight (what I should do/organise before I arrive)
 * Register for Songkick - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
 * Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
