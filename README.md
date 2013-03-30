@@ -110,6 +110,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Get a bite to eat at the [Farmer's market](http://www.ferrybuildingmarketplace.com/farmers_market.php)
 * Attend some meetups: http://javascript.meetup.com/cities/us/ca/san_francisco/
 * Shoot a .44 magnum at a [Gun Range](http://www.jacksonarms.com/)
+* Drop into M5 and say "G'day" your resident Mythbusters (probably not a thing you can do - one way to find out)
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
