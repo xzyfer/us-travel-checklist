@@ -72,8 +72,8 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 **Also** please make my trip awesome by helping this go viral!
 
 **UPDATE** response has been awesome, thanks everyone. 
-For pizza suggestions, please see here https://github.com/xzyfer/us-travel-checklist/issues/5
-For taco suggestions, please see here https://github.com/xzyfer/us-travel-checklist/issues/13
+For pizza suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/5)
+For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/13)
 
 
 ### TODO
@@ -83,12 +83,12 @@ For taco suggestions, please see here https://github.com/xzyfer/us-travel-checkl
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
-* Attend a tech conference (http://goo.gl/rqZEP) - seeing [@paul_irish](https://twitter.com/paul_irish) talk would be all kinds of awesome
+* Attend a tech conference - seeing [@paul_irish](https://twitter.com/paul_irish) talk would be all kinds of awesome
 * Eat a sushiritto
 * Eat a [Mission burrito](http://en.wikipedia.org/wiki/San_Francisco_burrito)
 * Cross the US-Mexico border
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
-* Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers (http://www.zrafting.com)
+* Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
 * Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
  
 ### Preflight (what I should do/organise before I arrive)
