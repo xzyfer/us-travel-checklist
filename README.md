@@ -47,7 +47,7 @@ My interests include:
     * Rise Against (http://www.youtube.com/artist/rise-against/videos)
     * Theory of a Deadman (http://www.youtube.com/artist/theory-of-a-deadman/videos)
     * ...you're probably getting the gist by this point
-* food, primarily *pizza* - show me you're best!
+* food, primarily *pizza* - show me your best!
 * stand up comedy - would love to go to a gig. Submit tour dates?
     * Gabriel Igelias
     * Louis C.K.
