@@ -106,6 +106,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit Santa Cruz. Only a hour or so south of SF, possible via public transit, and one of the great beach cities in California.
 * Find somebody having a Labor Day party (early September). Get an invite. Or crash it.
 * go visit a game of the CalBears! [schedule](http://www.calbears.com/sports/m-footbl/sched/cal-m-footbl-sched.html) [@tschaume](http://the-huck.com/)
+* visit the UC Berkeley Campus and the Gourmet Ghetto in North Berkeley (Cheeseboard Factory and many good restaurants) [@tschaume](http://the-huck.com/)
 
 
 ### Preflight (what I should do/organise before I arrive)
