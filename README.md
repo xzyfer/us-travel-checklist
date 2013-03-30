@@ -90,7 +90,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Skate around Golden Gate Park
 * Segway around Golden Gate Park
 * [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal
-* Drive (on the wrong side of the road)
+* Road trip (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
 * Attend a tech conference - seeing [@paul_irish](https://twitter.com/paul_irish) talk would be all kinds of awesome
