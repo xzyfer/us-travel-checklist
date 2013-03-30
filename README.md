@@ -89,7 +89,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
 * Segway around Golden Gate Park
-* Catch a cable car in San Francisco
+* [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
