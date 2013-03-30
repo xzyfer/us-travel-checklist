@@ -91,6 +91,7 @@ For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-chec
 * Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
 * Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
 * Visit [Lego Land](http://california.legoland.com/) - nerd-gasim
+* Eat at an [In-N-Out](http://www.yelp.com/biz/in-n-out-burger-san-francisco). Make sure you get a double double animal style.
  
 ### Preflight (what I should do/organise before I arrive)
 * Register for Songkick - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
