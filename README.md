@@ -83,6 +83,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Eat a sushiritto
 * Cross the US-Mexico border
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
+* Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers (http://www.zrafting.com)
  
 ### Preflight (what I should do/organise before I arrive)
 * Register for Songkick - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
