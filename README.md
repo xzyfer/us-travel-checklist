@@ -98,6 +98,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Eat a sushiritto
 * Eat a [Mission burrito](http://en.wikipedia.org/wiki/San_Francisco_burrito)
 * Cross the US-Mexico border
+* Check out some vintage games and coin machines at the [Musée Mechanique] (http://www.museemechanique.org/)
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
 * Hang out at at a hackerspace like [Noisebridge](https://noisebridge.net/) (a few times, get to know some folks)
 * Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
@@ -138,4 +139,3 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * ~~Sign up for uber~~
 * Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld
 * Stalk [Stubhub](http://www.stubhub.com/) like a baws
-
