@@ -113,6 +113,6 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
 * Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
-* Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive. Routesy Free is a good iOS one.
+* Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive.
 * ~~Sign up for uber~~
 
