@@ -4,11 +4,16 @@ model could be leveraged, given adequate exposure, for something
 as simple as a todo list.
 
 ### Why am I doing this?
-There are many things I suck at, among them are:
-* planning
-* organization
-* being touristy
-* and most unfortunately, writting TODO lists.
+Most threads I read regard overseas travel, especially to the US I find overly touristy.
+I'm not one for hikes through national parks, going to Disney Land.
+
+I want to travel San Francisco they way people should travel Melbourne, Australia.
+Talking to locals, wandering the cities lane ways for days with no plans. Discovering all
+the hidden awesomeness it has to offer.
+
+I'll be spending the majority of my time there working with local collegues who I'm sure will show me a great time.
+But I'd like to break away and get lost :) **My intention** is to collect, and curate a set of individual,
+uniquely SF experience that I can share back with you all, and anyone who stumbles across this is via Google :)
 
 ### How can I help?
 Long story short, I'm travelling to San Francisco for ~2 months
