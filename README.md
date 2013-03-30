@@ -115,7 +115,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California) - feels uber touristy but looks nice - thanks @sbacheld
 * Eat all the Mission food
 * Kinderfest at [Touist club](http://touristclubsf.org/festivals/) - thanks @ebidel
-* Cruise down to the coast (Tomales Bay) - hopefully have a skate - thanks @ebidel 
+* Cruise down to the coast (Tomales Bay) - hopefully have a skate - thanks @ebidel
 * Stinson beach! - thanks @baus
 * Check out Castro - and do more eating - thanks @baus and others
 * Check out Clement street - even do more eating - thanks @baus
@@ -125,6 +125,8 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Have breakfast at Bucks (Hotmail, Tesla and Paypal just to name a few of the companies that had their first deals struck there) http://www.npr.org/templates/story/story.php?storyId=128874569
 * [Outside lands festival](http://www.sfoutsidelands.com)
 * Visit and photograph to gorgeous [Julia Pfeiffer Burns State Park](http://goo.gl/ggVp4) for a day trip
+* go visit a game of the CalBears! [schedule](http://www.calbears.com/sports/m-footbl/sched/cal-m-footbl-sched.html) [@tschaume](http://the-huck.com/)
+* visit the UC Berkeley Campus and the Gourmet Ghetto in North Berkeley (Cheeseboard Factory and many good restaurants) [@tschaume](http://the-huck.com/)
 
 
 ### Preflight (what I should do/organise before I arrive)
