@@ -13,7 +13,7 @@ the hidden awesomeness it has to offer.
 
 I'll be spending the majority of my time there working with local collegues who I'm sure will show me a great time.
 But I'd like to break away and get lost :) **My intention** is to collect, and curate a set of individual,
-uniquely SF experience that I can share back with you all, and anyone who stumbles across this is via Google :)
+uniquely SF experiences that I can share back with you all, and anyone who stumbles across this is via Google :)
 
 ### How can I help?
 Long story short, I'm travelling to San Francisco for ~2 months
