@@ -89,7 +89,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
 * Segway around Golden Gate Park
-* [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal
+* [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal (Catch California street Cable car to avoid hour long waits)
 * Road trip (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
@@ -109,6 +109,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
 * Get a bite to eat at the [Farmer's market](http://www.ferrybuildingmarketplace.com/farmers_market.php)
 * Attend some meetups: http://javascript.meetup.com/cities/us/ca/san_francisco/
+* Shoot a .44 magnum at a [Gun Range](http://www.jacksonarms.com/)
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
