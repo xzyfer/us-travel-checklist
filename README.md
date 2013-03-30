@@ -106,7 +106,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * [IHOP!!](http://www.ihop.com/) - [@fluffyguy](https://twitter.com/fluffyguy)
 * Visit Santa Cruz. Only a hour or so south of SF, possible via public transit, and one of the great beach cities in California.
 * Find somebody having a Labor Day party (early September). Get an invite. Or crash it.
-
+* Drop in and say "G'day" to a [fellow Aussie](https://news.ycombinator.com/item?id=5465952)
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
