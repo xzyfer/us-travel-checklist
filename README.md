@@ -86,6 +86,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 **UPDATE** response has been awesome, thanks everyone.
 
 ### TODO
+* Rock out at the [Audium](http://www.audium.org).  It's like doing acid w/ headphones in the dark.
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
 * Segway around Golden Gate Park
