@@ -89,6 +89,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
 * Segway around Golden Gate Park
+* Drive (on the wrong side of the road)
 * [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal (Catch California street Cable car to avoid hour long waits)
 * Road trip (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
