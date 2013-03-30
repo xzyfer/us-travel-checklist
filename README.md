@@ -26,6 +26,11 @@ updates in the form of mini-blogs, vlog, or photos.
 
 If a local's pizza or taco suggestion gets shortlisted, lunch is on me!
 
+For pizza suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/5).
+
+For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/13).
+
+
 ### About me
 I'm a 25 year old Australian web developer working for a successful
 web start up. I spend most of my days neck deep in (s)css and
@@ -74,11 +79,6 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 **Also** please make my trip awesome by helping this go viral!
 
 **UPDATE** response has been awesome, thanks everyone.
-
-For pizza suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/5). If a local gets shortlisted, lunch is on me!
-
-For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/13). If a local gets shortlisted, lunch is on me!
-
 
 ### TODO
 * Visit/tour the Google campus
