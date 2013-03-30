@@ -11,9 +11,9 @@ There are many things I suck at, among them are:
 * and most unfortunately, writting TODO lists.
 
 ### How can I help?
-Long story short, I'm travelling to San Fransisco for ~2 months
-(Aug/Sep) this year primarily, but by no means limited to, San
-Fransisco.
+Long story short, I'm travelling to San Francisco for ~2 months
+(Aug/Sep) this year primarily, but by no means limited to, San 
+Francisco.
 I've been to the US before, spending the majority of my time in
 Las Vegas, NV.
 Looking for some fun stuff to do. The kinds of things the locals
@@ -62,7 +62,7 @@ My interests include:
 * poker - I played semi-professionally for a couple years
 
 **TL;DR** I'm an Australian web developer spending two Aug/Sep in the
-US, primarily but not limited San Fransisco. Looking for fun (non-
+US, primarily but not limited San Francisco. Looking for fun (non-
 touristy) stuff to do. I wonder if I can crowd source github for ideas.
 
 Please open a pull request, or twitter [@xzyfer](https://twitter.com/xzyfer), with your suggestion.
@@ -79,7 +79,7 @@ For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-chec
 ### TODO
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
-* Catch a cable car in San Fransisco
+* Catch a cable car in San Francisco
 * Drive (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
