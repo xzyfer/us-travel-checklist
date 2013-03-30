@@ -83,7 +83,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Eat a sushiritto
 * Cross the US-Mexico border
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
-* Hang out at at a hackerspace like Noisebridge (a few times, get to know some folks)
+* Hang out at at a hackerspace like Noisebridge (a few times, get to know some folks) - url: https://noisebridge.net/
  
 ### Preflight (what I should do/organise before I arrive)
 * Register for Songkick - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
