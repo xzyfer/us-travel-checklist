@@ -35,13 +35,17 @@ My interests include:
 * all things inline - roller blades
 * tech - meet ups, tech campus', and alike
 * rock music - would love to go to a gig. Submit tour dates?
-    * papa roach
-    * trapt
-    * seether
-    * three days grace
-    * atreyu
-    * breaking benjamin
-    * bullet for my valentine
+    * Papa Roach (http://www.youtube.com/artist/papa-roach/videos)
+    * Trapt (http://www.youtube.com/user/officialtrapt/videos)
+    * Seether (http://www.youtube.com/artist/seether/videos)
+    * Three Days Grace (http://www.youtube.com/artist/three-days-grace/videos)
+    * Atreyu (http://www.youtube.com/user/atreyu/videos)
+    * Breaking Benjamin (http://www.youtube.com/user/BreakingBenjaminOFCL/videos)
+    * Bullet for my valentine (http://www.youtube.com/artist/bullet-for-my-valentine/videos)
+    * Finger Eleven (http://www.youtube.com/user/F1NGERELEVEN/videos)
+    * Flyleaf (http://www.youtube.com/user/flyleafmusic/videos)
+    * Rise Against (http://www.youtube.com/artist/rise-against/videos)
+    * Theory of a Deadman (http://www.youtube.com/artist/theory-of-a-deadman/videos)
     * ...you're probably getting the gist by this point
 * food, primarily piza - show me you're best!
 * stand up comedy - would love to go to a gig. Submit tour dates?
