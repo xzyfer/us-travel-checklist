@@ -20,9 +20,11 @@ Looking for some fun stuff to do. The kinds of things the locals
 do that you don't read about in the travel guides.
 
 ### Contributing
-Please open a pull request with your suggestion. I'll review it,
-and if it tickles my fancy, I'll add it below. I'll add updates
-in the form of mini-blogs, vlog, or photos.
+Please open a pull request or issue with your suggestion. I'll 
+review it, and if it tickles my fancy, I'll add it below. I'll add 
+updates in the form of mini-blogs, vlog, or photos.
+
+If a local's pizza or taco suggestion gets shortlisted, lunch is on me!
 
 ### About me
 I'm a 25 year old Australian web developer working for a successful
@@ -72,7 +74,9 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 **Also** please make my trip awesome by helping this go viral!
 
 **UPDATE** response has been awesome, thanks everyone. 
+
 For pizza suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/5). If a local gets shortlisted, lunch is on me!
+
 For taco suggestions, [please see here](https://github.com/xzyfer/us-travel-checklist/issues/13). If a local gets shortlisted, lunch is on me!
 
 
