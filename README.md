@@ -112,10 +112,10 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Shoot a .44 magnum at a [Gun Range](http://www.jacksonarms.com/)
 * Drop into M5 and say "G'day" your resident Mythbusters (probably not a thing you can do - one way to find out)
 * Visit Alcatraz Island
-* Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California)) - feels uber touristy but looks nice - thanks @sbacheld
+* Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California) - feels uber touristy but looks nice - thanks @sbacheld
 * Eat all the Mission food
 * Kinderfest at [Touist club](http://touristclubsf.org/festivals/) - thanks @ebidel
-* Cruise down to the coast - hopefully have a skate - thanks @ebidel 
+* Cruise down to the coast (Tomales Bay) - hopefully have a skate - thanks @ebidel 
 * Stinson beach! - thanks @baus
 * Check out Castro - and do more eating - thanks @baus and others
 * Check out Clement street - even do more eating - thanks @baus
