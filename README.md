@@ -118,6 +118,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Cruise down to the coast - hopefully have a skate - thanks @ebidel 
 * Stinson beach! - thanks @baus
 * Check out Castro - and do more eating - thanks @baus and others
+* Check out Clement street - even do more eating - thanks @baus
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
