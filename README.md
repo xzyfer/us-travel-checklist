@@ -114,7 +114,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Visit Alcatraz Island
 * Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California)) - feels uber touristy but looks nice - thanks @sbacheld
 * Eat all the Mission food
-* Kinderfest at [Touist club](http://touristclubsf.org/festivals/)
+* Kinderfest at [Touist club](http://touristclubsf.org/festivals/) - thanks @ebidel
 * Cruise down to the coast - hopefully have a skate - thanks @ebidel 
 * Stinson beach! - thanks @baus
 * Check out Castro - and do more eating - thanks @baus and others
