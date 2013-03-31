@@ -123,6 +123,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * [Hanger One Vodka](http://www.hangarone.com/) tour - thanks HN
 * Shake hands with the locals at [Sunday street fests](http://www.sundaystreetssf.com/) - thanks HN
 * Have breakfast at Bucks (Hotmail, Tesla and Paypal just to name a few of the companies that had their first deals struck there) http://www.npr.org/templates/story/story.php?storyId=128874569
+* [Outside lands festival](http://www.sfoutsidelands.com)
 
 
 ### Preflight (what I should do/organise before I arrive)
