@@ -121,6 +121,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Check out Clement street - even do more eating - thanks @baus
 * Go to a Giants baseball game - not my thing but when in Rome - thanks HN
 * [Hanger One Vodka](http://www.hangarone.com/) tour - thanks HN
+* Shake hands with the locals at [Sunday street fests](http://www.sundaystreetssf.com/) - thanks HN
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
