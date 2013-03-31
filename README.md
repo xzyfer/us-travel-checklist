@@ -116,6 +116,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Eat all the Mission food
 * Kinderfest at [Touist club](http://touristclubsf.org/festivals/)
 * Cruise down to the coast - hopefully have a skate - thanks @ebidel 
+* Stinson beach! - thanks @baus
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
