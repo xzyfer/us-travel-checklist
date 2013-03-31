@@ -121,5 +121,5 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
 * Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive.
 * ~~Sign up for uber~~
-* Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Ubser
+* Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld
 
