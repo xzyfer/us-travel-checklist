@@ -132,4 +132,5 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive.
 * ~~Sign up for uber~~
 * Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld
+* Stalk [Stubhub](http://www.stubhub.com/) like a baws
 
