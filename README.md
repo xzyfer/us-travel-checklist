@@ -113,6 +113,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Drop into M5 and say "G'day" your resident Mythbusters (probably not a thing you can do - one way to find out)
 * Visit Alcatraz Island
 * Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California)) - feels uber touristy but looks nice - thanks @sbacheld
+* Eat all the Mission food
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
