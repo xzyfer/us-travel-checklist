@@ -133,9 +133,9 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 
 ### Preflight (what I should do/organise before I arrive)
 * ~~Register for Songkick~~ - thanks @paulwithap - [done!](http://www.songkick.com/users/xzyfer)
-* Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber
+* ~~Simcard \w data - check out [T-Mobile](http://prepaid-phones.t-mobile.com/) thanks @paulschreiber~~
    * First make sure your phone works on T-Mobile's unusual 1700MHz band or be limited to 2G EDGE speeds, if not AT&T is your best bet.
-* Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive.
+* ~~Install a transit app so you can see when MUNI (buses and streetcars) and BART (heavy rail) arrive.~~
 * ~~Sign up for uber~~
-* Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld
-* Stalk [Stubhub](http://www.stubhub.com/) like a baws
+* ~~Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld~~
+* ~~Stalk [Stubhub](http://www.stubhub.com/) like a baws~~
