@@ -88,9 +88,7 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Rock out at the [Audium](http://www.audium.org).  It's like doing acid w/ headphones in the dark.
 * Visit/tour the Google campus
 * Skate around Golden Gate Park
-* Segway around Golden Gate Park
 * Drive (on the wrong side of the road)
-* [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal (Catch California street Cable car to avoid hour long waits)
 * Road trip (on the wrong side of the road)
 * See Penn & Teller in Las Vegas
 * See a band play (US rock bands don't often travel to Australia)
@@ -101,8 +99,6 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Check out some vintage games and coin machines at the [Musée Mechanique] (http://www.museemechanique.org/)
 * Get swervy at [Tommy's tequila bar](http://www.tommystequila.com/)
 * Hang out at at a hackerspace like [Noisebridge](https://noisebridge.net/) (a few times, get to know some folks)
-* Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
-* Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
 * Visit [Lego Land](http://california.legoland.com/) - nerd-gasim
 * Eat at an [In-N-Out](http://www.yelp.com/biz/in-n-out-burger-san-francisco). Make sure you get a double double animal style.
 * [IHOP!!](http://www.ihop.com/) - [@fluffyguy](https://twitter.com/fluffyguy)
@@ -114,20 +110,15 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * Shoot a .44 magnum at a [Gun Range](http://www.jacksonarms.com/)
 * Drop into M5 and say "G'day" your resident Mythbusters (probably not a thing you can do - one way to find out)
 * Visit Alcatraz Island
-* Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California) - feels uber touristy but looks nice - thanks @sbacheld
 * Eat all the Mission food
 * Kinderfest at [Touist club](http://touristclubsf.org/festivals/) - thanks @ebidel
 * Cruise down to the coast (Tomales Bay) - hopefully have a skate - thanks @ebidel
 * Stinson beach! - thanks @baus
 * Check out Castro - and do more eating - thanks @baus and others
 * Check out Clement street - even do more eating - thanks @baus
-* Go to a Giants baseball game - not my thing but when in Rome - thanks HN
 * [Hanger One Vodka](http://www.hangarone.com/) tour - thanks HN
 * Shake hands with the locals at [Sunday street fests](http://www.sundaystreetssf.com/) - thanks HN
 * Have breakfast at Bucks (Hotmail, Tesla and Paypal just to name a few of the companies that had their first deals struck there) http://www.npr.org/templates/story/story.php?storyId=128874569
-* [Outside lands festival](http://www.sfoutsidelands.com)
-* Visit and photograph to gorgeous [Julia Pfeiffer Burns State Park](http://goo.gl/ggVp4) for a day trip
-* go visit a game of the CalBears! [schedule](http://www.calbears.com/sports/m-footbl/sched/cal-m-footbl-sched.html) [@tschaume](http://the-huck.com/)
 * visit the UC Berkeley Campus and the Gourmet Ghetto in North Berkeley (Cheeseboard Factory and many good restaurants) [@tschaume](http://the-huck.com/)
 
 
@@ -139,3 +130,18 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 * ~~Sign up for uber~~
 * ~~Check out [Lyft](http://www.lyft.me) and [Sidecar](http://www.side.cr/) as alternative to Uber - thanks @sbacheld~~
 * ~~Stalk [Stubhub](http://www.stubhub.com/) like a baws~~
+
+
+### Mothballed
+===
+#### These are things that for one reason or another I've opted against doing. I still appreciate all the suggestions but now that I'm here I have a clearer idea of what I want out of my time :)
+
+* Segway around Golden Gate Park
+* [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal (Catch California street Cable car to avoid hour long waits)
+* Visit Yosemite National Park, and do some Whitewater Rafting in the Merced or Tuolumne Rivers - check out [Zephyr Whitewater](http://www.zrafting.com)
+* Stay in a Yurt at [Treebones](http://treebonesresort.com) - thanks @akcreek
+* Visit [Twin Peaks](http://en.wikipedia.org/wiki/Twin_Peaks_(San_Francisco,_California) - feels uber touristy but looks nice - thanks @sbacheld
+* Go to a Giants baseball game - not my thing but when in Rome - thanks HN
+* [Outside lands festival](http://www.sfoutsidelands.com)
+* Visit and photograph to gorgeous [Julia Pfeiffer Burns State Park](http://goo.gl/ggVp4) for a day trip
+* go visit a game of the CalBears! [schedule](http://www.calbears.com/sports/m-footbl/sched/cal-m-footbl-sched.html) [@tschaume](http://the-huck.com/)
