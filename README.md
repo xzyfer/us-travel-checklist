@@ -133,8 +133,8 @@ I'll add updates in the form of mini-blogs, vlog, or photos.
 
 
 ### Mothballed
-===
-#### These are things that for one reason or another I've opted against doing. I still appreciate all the suggestions but now that I'm here I have a clearer idea of what I want out of my time :)
+
+These are things that for one reason or another I've opted against doing. I still appreciate all the suggestions but now that I'm here I have a clearer idea of what I want out of my time :)
 
 * Segway around Golden Gate Park
 * [Marty McFly](http://lechtenb.files.wordpress.com/2012/01/skateboard-trick.jpg) a cable car - probably illegal (Catch California street Cable car to avoid hour long waits)
