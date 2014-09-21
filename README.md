@@ -145,3 +145,18 @@ These are things that for one reason or another I've opted against doing. I stil
 * [Outside lands festival](http://www.sfoutsidelands.com)
 * Visit and photograph to gorgeous [Julia Pfeiffer Burns State Park](http://goo.gl/ggVp4) for a day trip
 * go visit a game of the CalBears! [schedule](http://www.calbears.com/sports/m-footbl/sched/cal-m-footbl-sched.html) [@tschaume](http://the-huck.com/)
+
+### The Debrief - Top 10 Experiences 
+
+Trip concluded, these were the highlights of my trip and my recommendations for others taking a similar route.
+
+1. 
+2. 
+3.
+4.
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
